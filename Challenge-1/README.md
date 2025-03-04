@@ -16,7 +16,7 @@ A simple and powerful command-line interface (CLI) application for managing your
 
 # Installation
 
-Clone the repository: https://github.com/AyeshaNasirWebDeveloper/Ramadan-Coding-Challenge.git
+Clone the repository: https://github.com/AyeshaNasirWebDeveloper/Ramadan-Coding.git
 
 # Contact Me
 
