@@ -3,7 +3,7 @@
 **Generate strong, secure passwords in seconds!**  
 This app lets you create random passwords with customizable options like length, digits, and special characters. Built with **Streamlit**, **Pyperclip**, and powered by **UV** for blazing-fast dependency management.
 
-
+https://modernpasswordgenerator.streamlit.app/
 *Click the badge above to try it now!*
 
 ---
@@ -21,14 +21,14 @@ This app lets you create random passwords with customizable options like length,
 
 1. **Clone the repo**:
    ```bash
-   git clone 
+   git clone https://github.com/AyeshaNasirWebDeveloper/Ramadan-Coding/edit/main/Challenge-2/Password-Generator/
    cd password-generator
 Install dependencies with UV
 
 bash
 Copy
 streamlit run app.py
-Open your browser and start generating passwords at - 
+Open your browser and start generating passwords at - https://modernpasswordgenerator.streamlit.app/
 
 # 🌐 Deploy Your Own
 - Deploy this app to Streamlit Community Cloud in minutes:
