@@ -2,6 +2,8 @@
 
 Never miss a beat across the globe! 🌐
 
+Try Now: https://timezones.streamlit.app/
+
 The Time Zone App is your go-to tool for:
 ✅ Viewing current time in multiple time zones.
 ✅ Converting time between any two time zones.
@@ -13,7 +15,7 @@ Clone the repo:
 
 bash
 Copy
-git clone 
+git clone:  https://github.com/AyeshaNasirWebDeveloper/Ramadan-Coding/tree/main/Challenge-6
 cd time-zone
 Install dependencies:
 
