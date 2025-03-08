@@ -29,9 +29,9 @@ The application uses the following:
 
 # Installation
 
-git clone 
+git clone: https://github.com/AyeshaNasirWebDeveloper/Ramadan-Coding/
 
-**Enjoy the Money Making Machine Live:** 
+**Enjoy the Money Making Machine Live:** https://moneymakingmachine.streamlit.app/
 
 
 # API Integration 🌐
