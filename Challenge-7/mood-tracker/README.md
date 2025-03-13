@@ -17,7 +17,7 @@ Track your daily moods and visualize your emotional trends over time with this s
 
 **View Trends**: Check out the bar chart to see how your moods have changed over time.
 
-**Enjoy live 🤹‍♀️**: 
+**Enjoy live 🤹‍♀️**: https://modernmoodtracker.streamlit.app/
 
 # Technologies Used 💻
 **Python**: The core programming language.
