@@ -2,6 +2,11 @@
 
 Welcome to the **Streamlit Quiz Application**! This is a simple, interactive quiz app built using Streamlit, a popular Python library for creating web applications. The app presents users with multiple-choice questions about Pakistan and provides instant feedback on their answers.
 
+## Live App
+https://modernquizapp.streamlit.app/
+
+![Quiz App Screenshot](screenshot.PNG)  
+
 ## Features
 
 - **Randomized Questions**: Each time the app runs, a random question is selected from a predefined list.
@@ -72,11 +77,6 @@ You can easily customize the quiz by adding or modifying questions in the `quest
 
 - Python 3.6 or higher
 - Streamlit (`uv add streamlit`)
-
-## Screenshots
-
-![Quiz App Screenshot](screenshot.PNG)  
-*Example of the quiz app in action.*
 
 ## Contributing
 
