@@ -2,6 +2,8 @@
 
 Welcome to the **Simple Calculator** project! This is a basic calculator built using **Streamlit**, which allows users to perform simple arithmetic operations like addition, subtraction, multiplication, and division. It features a clean, user-friendly interface where users can input numbers and select operations.
 
+### Try Now: https://modernsimplecalculator.streamlit.app/
+
 ### Features
 
 - Perform basic arithmetic operations: Addition, Subtraction, Multiplication, and Division.
